@@ -19,7 +19,7 @@
   2. Wait approximately 2-5 minutes, then Ops Manager will be available at `http://localhost:8080`
 
 # Credits
-  1. Credits to [GradeCam](github.com/gradecam) team for entrypoint script
+  1. Credits to [GradeCam](https://github.com/gradecam/docker-mongodb-ops-manager) team for entrypoint script
 
 # References
   1. [MongoDB Ops Manager](https://www.mongodb.com/products/ops-manager)
