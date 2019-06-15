@@ -12,7 +12,7 @@
   2. Port 8080 open on host when using host network mode (also will change when [#2](https://github.com/opensourcebapu/docker-mongo-opsmgr/issues/2) is solved)
 
 # Usage
-  1. For manually running,assuming MongoDB intance is available at localhost:27017. start image with this command:
+  1. For manually running,a ssuming MongoDB intance is available at localhost:27017, start image with this command:
   ```bash
   docker run -d --network host opensourcebapu/mongodb-opsmgr-centos
   ```
